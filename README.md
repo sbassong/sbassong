@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <div align="center">
+  
+  <br>
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sbassong&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=ayu-mirage" />  </a><br>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sbassong&layout=compact&theme=ayu-mirage&hide=python,ejs" /></a> 
   <hr>
   <div>
     <a href="https://www.sambassong.com/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
