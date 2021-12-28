@@ -1,37 +1,16 @@
+<h1 align="center"> ✨ Hi, I'm Sam ✨</h1>
 
+I'm a software engineer with a 🔬biomedical research and ✏️education background. I wrote my first line of code 2 years ago and haven't stopped since. I'm passionate about fullstack development and am currently building an interest in cloud engineering and UX design. 
 
-<!--
-**sbassong/sbassong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-<div align="center">
-  
-  <br>
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sbassong&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=ayu-mirage" />  </a><br>
-  <hr>
-  <div>
+- 🏢 I'm currently making awesomeness as a **Web Developer Intern** at [Center Centre-UIE](https://www.uie.com/)
+- 📫 Get to know me or reach me at:<div ><br>
     <a href="https://www.sambassong.com/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=awesome-lists&logoColor=white" />  </a>
     <a href="https://www.linkedin.com/in/sambassong/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=flat-square&logo=LinkedIn&logoColor=white" />  </a>
     <a href="https://github.com/sbassong"><img src="https://img.shields.io/github/followers/sbassong?color=black&label=GitHub&logo=GitHub&logoColor=white&style=flat-square" />  </a>
     <a href="mailto: sam.bassong@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=flat-square&logo=Gmail&logoColor=white" />  </a>
   </div>
   <hr>
-  <div>
-      <a href="#"><img src="https://img.shields.io/badge/-MacOS-999999?style=flat-square&logo=Apple&logoColor=white" />  </a>
-      <a href="#"><img src="https://img.shields.io/badge/-Windows-0078D6?style=flat-square&logo=Windows&logoColor=white" />  </a>
-  </div>
-  <hr>
-  <div>
+- 💻 Technologies I enjoy using:<div> <br>
       <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux" />  </a>
@@ -62,4 +41,23 @@ Here are some ideas to get you started:
       <a href="#"><img src="https://img.shields.io/badge/-Slack-4A154B?style=flat-square&logo=slack" />  </a>
       <a href="#"><img src="https://img.shields.io/badge/-Zoom-2D8CFF?style=flat-square&logo=zoom&logoColor=white" />  </a>
     </div>
+<!--
+**sbassong/sbassong** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
+<div align="center">
+  
+  <br>
+  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sbassong&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple " />  </a><br>
+
+  
 </div>
