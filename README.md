@@ -1,6 +1,7 @@
 
 
-<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe></div>
+<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></iframe>
+
 
 I'm Sam, a former biomedical researcher and educator turned software engineer. I wrote my first line of code 2 years ago and soon realized I had found my dream career. I'm passionate about leveraging modern technologies to build a more accessible and inclusive digital space.
 
