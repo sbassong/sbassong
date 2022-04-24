@@ -1,8 +1,6 @@
 
 
-<div style="width:100%;height:0;padding-bottom:43%;position:relative;"><img src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="100%" height="100%" style="position:absolute" frameBorder="0" class="giphy-embed" allowFullScreen></img></div>
-
-<iframe src="https://giphy.com/embed/xTiIzJSKB4l7xTouE8" width="480" height="208" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8">via GIPHY</a></p>
+![](https://giphy.com/gifs/starwars-star-wars-episode-3-xTiIzJSKB4l7xTouE8)
 
 <br>
 
