@@ -6,7 +6,7 @@
 
 I'm Sam, a former biomedical researcher and educator turned software engineer. I wrote my first line of code 2 years ago and soon realized I had found my dream career. I'm passionate about leveraging modern technologies to build a more accessible and inclusive digital space.
 
-I'm enjoying learning and leveraging geospatial data to help build *everything location* as a Jr. Software Engineer @ **[locana](https://www.locana.co/)**.
+Currently, I'm focused on using geospatial data to help build everything location as a junior software engineer at **[locana](https://www.locana.co/)**.
 
 Visit my **portfolio** website **[sambassong.com](https://www.sambassong.com/)** and/or **connect** with me on <a href="https://www.linkedin.com/in/sambassong/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white" /></a>! 
 
