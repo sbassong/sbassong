@@ -4,16 +4,16 @@
 
 <br>
 
-I'm Sam, a former biomedical researcher and educator turned software engineer. I wrote my first line of code 2 years ago and soon realized I had found my dream career. I'm passionate about leveraging modern technologies to build a more accessible and inclusive digital space.
+I'm Sam, a former biomedical researcher and educator turned software engineer. I wrote my first line of code over two years ago and soon realized I had found my dream job. I specialize in software and web development, though I'm also interested in exploring DevOps and cloud development.
 
 Currently, I'm focused on using geospatial data to help build everything location as a junior software engineer at **[locana](https://www.locana.co/)**.
 
-Visit my **portfolio** website **[sambassong.com](https://www.sambassong.com/)** and/or **connect** with me on <a href="https://www.linkedin.com/in/sambassong/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white" /></a>! 
+Visit my **portfolio website [sambassong.com](https://www.sambassong.com/)** and/or **connect** with me on <a href="https://www.linkedin.com/in/sambassong/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white" /></a>! 
 
-<hr>
-<!-- </br> -->
+<!-- <hr> -->
+</br>
 
- #### **Some technologies I enjoy developing with**:
+ #### **Some technologies I enjoy building with**:
 <!-- </br> -->
 </p>
 <div> 
@@ -41,6 +41,6 @@ Visit my **portfolio** website **[sambassong.com](https://www.sambassong.com/)**
 
 <br>
 
-<div align="center">
+<div >
   <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sbassong&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple " />  </a><br>
 </div>
