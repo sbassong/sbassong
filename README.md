@@ -4,43 +4,57 @@
 
 <br>
 
-I'm Sam, a former biomedical researcher and educator turned software engineer. I wrote my first line of code over two years ago and soon realized I had found my dream job. I specialize in software and web development, though I'm also interested in exploring DevOps and cloud development.
+I'm Sam, a former biomedical researcher and educator turned software engineer. I'm lucky enough to have one the most exciting job in the world and I hope this hub will help illustrate my enthusiam for the craft. 
 
-Currently, I'm focused on using geospatial data to help build everything location as a junior software engineer at **[locana](https://www.locana.co/)**.
+I'm curently focused on leveraging geospatial data to build everything location as a software engineer at **[locana](https://www.locana.co/)** but I'm always excited to connect with folks and explore what's out there! 
 
-Visit my **portfolio website [sambassong.com](https://www.sambassong.com/)** and/or **connect** with me on <a href="https://www.linkedin.com/in/sambassong/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=square&logo=LinkedIn&logoColor=white" /></a>! 
-
-<!-- <hr> -->
+Feel free to connect on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
+<br>
+Maybe even take a look through my **<a href="https://drive.google.com/file/d/1J122vv_P2wXVVKWlmMXXXcH8u0V9YSi8/view?usp=sharing">resume</a>**?
+</br>
+Better yet, take a self-guided tour through my **[web portfolio](https://www.sambassong.com/)**!
+ 
 </br>
 
- #### **Some technologies I enjoy building with**:
-<!-- </br> -->
+ #### **Here are some of the tools I like to build with**:
 </p>
-<div> 
-  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=339933" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux" /></a>
-  <a href="#"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" /></a>
 
-  </p>
-  
+<!-- <div>  -->
   <a href="#"><img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=FEBD69" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=FAFAFA" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/-MongoDB-F7F7F7?style=flat-square&logo=mongodb" />  </a>
 
-  </p>
-  <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
-  <a href="#"><img src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=black" />  </a>
+</p>
 
-  </p>
+  <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Python3-3776AB?style=flat-square&logo=Python&logoColor=white" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />  </a>
   <a href="#"><img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3" />  </a>
-</div>
 
-<br>
+  </p>
 
-<div >
-  <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=sbassong&hide=,issues&include_all_commits=true&count_private=true&show_icons=true&theme=midnight-purple " />  </a><br>
-</div>
+  <a href="#"><img src="https://img.shields.io/badge/-Cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/-Jest-%23C21325?style=flat-square&logo=jest&logoColor=white" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/JWT-black?style=flat-square&logo=JSON%20web%20tokens" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Trello-%23026AA7.svg?style=flat-square&logo=Trello&logoColor=white" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?style=flat-square&logo=figma&logoColor=white" />  </a>
+
+  </p>
+  
+  <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Redux-764ABC?style=flat-square&logo=Redux" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/Vue.js-%2335495e.svg?style=flat-square&logo=vuedotjs&logoColor=%234FC08D" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/MUI-%230081CB.svg?style=flat-square&logo=mui&logoColor=white" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Chart.js-F5788D.svg?style=flat-square&logo=chart.js&logoColor=white" />  </a>
+
+  </p>
+
+  <a href="#"><img src="https://img.shields.io/badge/-Express-F7F7F7?style=flat-square&logo=express&logoColor=339933" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-NodeJS-339933?style=flat-square&logo=Node.js&logoColor=white" /></a>
+  <a href="#"><img src="https://img.shields.io/badge/-Flask-F7F7F7?style=flat-square&logo=flask&logoColor=black" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Sequelize-52B0E7?style=flat-square&logo=Sequelize&logoColor=white" />  </a>
+  <a href="#"><img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=flat-square&logo=pandas&logoColor=white" />  </a>
+
+  </p>
+
+<!-- </div> -->
