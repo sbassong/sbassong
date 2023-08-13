@@ -10,7 +10,7 @@ I'm curently focused on leveraging geospatial data to build everything location 
 
 Feel free to connect on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
-Maybe even take a look through my **<a href="https://drive.google.com/file/d/1W_Wi-KsSsq-5V3e1QSN2E-kF--PSFv7z/view?usp=sharing">resume</a>**?
+Maybe even take a look through my **<a href="https://drive.google.com/file/d/1sjKevF0-MAs27QJgazPk8w9b6-HamqC1/view?usp=sharing">resume</a>**?
 </br>
 Better yet, take a self-guided tour through my **[web portfolio](https://www.sambassong.com/)**!
  
