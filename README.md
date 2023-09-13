@@ -4,19 +4,19 @@
 
 <br>
 
-I'm Sam, a former biomedical researcher and educator turned software engineer. I'm lucky enough to have one the most exciting job in the world and I hope this hub will help illustrate my enthusiam for the craft. 
+I'm Sam, a full-stack software developer with a background in research and education. I love what I do enough to make it a hobby. I use this as a hub for my personal and (disclosable) professional projects and also a view into my journey as a developing developer (yes, intended).
 
-I'm curently focused on leveraging geospatial data to build everything location as a software engineer at **[locana](https://www.locana.co/)** but I'm always excited to connect with folks and explore what's out there! 
+I'm currently building geospatial and mapping applications at **[locana](https://www.locana.co/)**. It's fun stuff! That said, I'm glad to connect with folks and explore new opportunities. 
 
-Feel free to connect on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
+Let's connect on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
-Maybe even take a look through my **<a href="https://drive.google.com/file/d/1sjKevF0-MAs27QJgazPk8w9b6-HamqC1/view?usp=sharing">resume</a>**?
+Take a look through my **[web portfolio](https://www.sambassong.com/)**.
 </br>
-Better yet, take a self-guided tour through my **[web portfolio](https://www.sambassong.com/)**!
+I also made a cool **<a href="https://drive.google.com/file/d/1sjKevF0-MAs27QJgazPk8w9b6-HamqC1/view?usp=sharing">resume</a>**.
  
 </br>
 
- #### **Here are some of the tools I like to build with**:
+ #### **Here's my current tech stack**:
 </p>
 
 <!-- <div>  -->
