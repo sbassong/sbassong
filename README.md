@@ -4,9 +4,9 @@
 
 <br>
 
-I'm a full-stack software developer with a background in research and education. I love what I do enough to make it a hobby. I use this as a hub for my personal and (disclosable) professional projects and also a view into my journey as a developing developer (yes...).
+I'm a full-stack software developer with a background in research and education. I use this as a hub for my personal and (disclosable) professional projects and a view into my journey as a developing developer (yes...).
 
-I'm currently building geospatial and mapping applications at **[locana](https://www.locana.co/)**. It's fun stuff! That said, I'm glad to connect with folks and explore new opportunities. 
+I'm currently building geospatial and mapping applications at **[locana](https://www.locana.co/)**.
 
 Let's connect on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
