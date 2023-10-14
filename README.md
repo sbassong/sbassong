@@ -4,7 +4,7 @@
 
 <br>
 
-I'm a full-stack software developer with a background in research and education. I use this as a hub for my personal and (disclosable) professional projects and a view into my journey as a developing developer (yes...).
+I'm a full-stack software developer with a background in research and education. I use this as a hub for my personal and professional projects and a view into my journey as a developing developer (yes...).
 
 I'm currently building geospatial and mapping applications at **[locana](https://www.locana.co/)**.
 
