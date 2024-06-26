@@ -13,7 +13,7 @@ Take a self-guided tour around my **[website portfolio](https://www.sambassong.c
 I also made a cool **<a href="https://drive.google.com/file/d/1dhW0c8XGQcZjFCdnmXCUZ8VX3BVATUzo/view?usp=sharing">resume</a>**.
  
 
- #### **I currently build with**:
+ ##### **I currently build with**:
  <div>
   <a href="#"><img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=React&logoColor=black" /></a>
@@ -33,7 +33,7 @@ I also made a cool **<a href="https://drive.google.com/file/d/1dhW0c8XGQcZjFCdnm
   <a href="#"><img src="https://img.shields.io/badge/-cypress-%23E5E5E5?style=flat-square&logo=cypress&logoColor=058a5e" /></a>
  </div>
 
- #### **I'm learning to build with**:
+ ##### **I'm learning to build with**:
  <div>
   <a href="#"><img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=black" /></a>
   <a href="#"><img src="https://img.shields.io/badge/Next-black?style=flat-square&logo=next.js&logoColor=white" /></a>
