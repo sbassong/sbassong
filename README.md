@@ -2,13 +2,13 @@
 
 <br>
 
-My name is Sam and strong with the code, I am.
+Sam I am, and strong with the code, I am.
 <br>
-I wouldn't say I'm the dopest engineer around, but soon... I develop software solutions, and I've done so professionally since 2021. I can't show off the cool stuff I've built at work, but hopefully these repos give you a peek. Browse around and let me know what you think.
+Ok, that was bad, but I stand by it. I wouldn't say I'm the dopest engineer around, but soon... I develop software solutions, and I've done so professionally since 2021. I can't show off the cool stuff I've built at work, but hopefully, these repos give you a peek. Browse around and let me know what you think.
 
 Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
-Take a self-guided tour around my **[website portfolio]([https://www.sambassong.com/](https://portfolio-2-0-sbassong.vercel.app/projects))**.
+Take a self-guided tour around my **[website portfolio](https://portfolio-2-0-sbassong.vercel.app/projects)**.
 <br>
 I also made a cool **<a href="https://drive.google.com/file/d/1dhW0c8XGQcZjFCdnmXCUZ8VX3BVATUzo/view?usp=sharing">resume</a>**.
  
