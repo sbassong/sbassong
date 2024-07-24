@@ -8,7 +8,7 @@ I wouldn't say I'm the dopest engineer around, but soon... I develop software so
 
 Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
-Take a self-guided tour around my **[website portfolio](https://www.sambassong.com/)**.
+Take a self-guided tour around my **[website portfolio]([https://www.sambassong.com/](https://portfolio-2-0-sbassong.vercel.app/projects))**.
 <br>
 I also made a cool **<a href="https://drive.google.com/file/d/1dhW0c8XGQcZjFCdnmXCUZ8VX3BVATUzo/view?usp=sharing">resume</a>**.
  
