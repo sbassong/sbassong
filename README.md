@@ -8,7 +8,7 @@ Ok, that was bad, but I stand by it. I wouldn't say I'm the dopest engineer arou
 
 Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
-Take a self-guided tour around my **[website portfolio](https://portfolio-2-0-sbassong.vercel.app/projects)**.
+Take a self-guided tour around my **[website portfolio](https://sambassong.com)**.
 <br>
 I also made a cool **<a href="https://drive.google.com/file/d/1dhW0c8XGQcZjFCdnmXCUZ8VX3BVATUzo/view?usp=sharing">resume</a>**.
  
