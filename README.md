@@ -2,9 +2,9 @@
 
 <br>
 
-Sam I am, and strong with the code, I am.
+I go by Sam, and strong with the code I am.
 <br>
-Ok, that was bad, but I stand by it. I wouldn't say I'm the dopest engineer around, but soon... I develop software solutions, and I've done so professionally since 2021. I can't show off the cool stuff I've built at work, but hopefully, these repos give you a peek. Browse around and let me know what you think.
+A former biomedical researcher and teacher, I transitioned into software development in 2021. Since then, I have engineered software solutions and built digital products professionally. I can't show off the cool stuff I've built at work, but hopefully, these repos give you a peek. Browse around and send questions and feedback my way!
 
 Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
