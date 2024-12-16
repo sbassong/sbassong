@@ -6,7 +6,7 @@ Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn<
 <br>
 Take a self-guided tour around my **[website portfolio](https://sambassong.com)**.
 <br>
-I also made a cool **<a href="https://drive.google.com/file/d/1dhW0c8XGQcZjFCdnmXCUZ8VX3BVATUzo/view?usp=sharing">resume</a>**.
+I also made a cool **<a href="https://drive.google.com/file/d/1nbQ_AZRQ_H4zSoY5rS8ZEr4BYIClraxv/view?usp=drive_link">resume</a>**.
  
 
  ##### **I currently build with**:
