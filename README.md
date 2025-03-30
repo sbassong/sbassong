@@ -1,12 +1,12 @@
 ![Hello there!](https://media.giphy.com/media/xTiIzJSKB4l7xTouE8/giphy.gif)
 
-I'm Sam, a former bioscience researcher and educator turned software developer. I joined the tech industry in 2021, and I've been engineering software solutions and building digital products since. I can't show off the cool stuff I've built at work, but hopefully, these repos offer a peek. Browse around and send questions and feedback my way!
+I'm Sam, I solve problems and build software products. Welcome to my sandbox. Take a look and reach out.
 
 Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn</a>**.
 <br>
 Take a self-guided tour around my **[website portfolio](https://sambassong.com)**.
 <br>
-I also made a cool **<a href="https://drive.google.com/file/d/1nbQ_AZRQ_H4zSoY5rS8ZEr4BYIClraxv/view?usp=drive_link">resume</a>**.
+I also made a cool **<a href="https://drive.google.com/file/d/1oYKyaHaM1yW303glGqHOR08yG1AeNK2L/view?usp=drive_link">resume</a>**.
  
 
  ##### **I currently build with**:
