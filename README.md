@@ -4,6 +4,7 @@ Welcome to my sandbox, where I build, tinker, and iterate.
 
 I'm currently building a social platform for the child free community, a Next.js + Nest.js full-stack platform we hope to launch very soon. Checkout the repos and let me know what you think. Feedback and collaboration requests are always appreciated!
 
+⚙️
 **[CF platform frontend](https://github.com/sbassong/cf-platform-frontend)** |
 **[CF platform backend](https://github.com/sbassong/cf-platform-backend)**
 
