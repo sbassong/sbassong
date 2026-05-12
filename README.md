@@ -14,7 +14,7 @@ Connect with me on **<a href="https://www.linkedin.com/in/sambassong/">LinkedIn<
 <br>
 Take a self-guided tour around my **[website portfolio](https://sambassong.com)**.
 <br>
-I also made a cool **<a href="https://drive.google.com/file/d/1oYKyaHaM1yW303glGqHOR08yG1AeNK2L/view?usp=drive_link">resume</a>**.
+I also made a cool **<a href="https://drive.google.com/file/d/1otifVWd7PIypEgS4e1xql90JMSR7-cWs/view?usp=sharing">resume</a>**.
 
 <br> 
 
